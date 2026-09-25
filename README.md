@@ -1,5 +1,3 @@
-[![Owner](https://img.shields.io/badge/owner-londeren-green)](https://github.com/londeren)
-
 # Ответы на тесты для подтверждения навыков на hh.ru
 
 > [!IMPORTANT]
